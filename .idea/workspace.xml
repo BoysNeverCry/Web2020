@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c67e86a-fbe3-4821-bddf-3d052d0dbad6" name="Default Changelist" comment="test">
+    <list default="true" id="2c67e86a-fbe3-4821-bddf-3d052d0dbad6" name="Default Changelist" comment="第二次作业雏形">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/new.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/new.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +77,9 @@
       <option name="presentableId" value="Default" />
       <updated>1602036672456</updated>
       <workItem from="1602036673979" duration="1687000" />
-      <workItem from="1602470691194" duration="5725000" />
+      <workItem from="1602470691194" duration="6167000" />
+      <workItem from="1602482119961" duration="388000" />
+      <workItem from="1602502933056" duration="3019000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1602471548993</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602472785944</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第二次作业雏形">
+      <created>1602476727843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602476727843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,16 +122,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="第二次作业雏形" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次作业雏形" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="290" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602472793658">
+    <state x="290" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602476734777">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state x="290" y="145" key="Vcs.Push.Dialog.v2/0.0.1464.864@0.0.1464.864" timestamp="1602472793658" />
-    <state x="502" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602472747473">
+    <state x="290" y="145" key="Vcs.Push.Dialog.v2/0.0.1464.864@0.0.1464.864" timestamp="1602476734777" />
+    <state x="502" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602505851019">
       <screen x="0" y="0" width="1464" height="864" />
     </state>
-    <state x="502" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1464.864@0.0.1464.864" timestamp="1602472747473" />
+    <state x="502" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1464.864@0.0.1464.864" timestamp="1602505851019" />
+    <state x="229" y="186" key="search.everywhere.popup" timestamp="1602505150719">
+      <screen x="0" y="0" width="1464" height="864" />
+    </state>
+    <state x="229" y="186" key="search.everywhere.popup/0.0.1464.864@0.0.1464.864" timestamp="1602505150719" />
   </component>
 </project>
